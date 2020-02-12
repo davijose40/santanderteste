@@ -1,4 +1,4 @@
- some words in this text
+ some words in this text, with differences between lines.
 <<<<<<< HEAD
  some new words at 17:00 12/02/20
 =======
