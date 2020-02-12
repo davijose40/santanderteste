@@ -3,3 +3,5 @@
 
 some more words
 >>>>>>> 05cbde64d7a353f3323d3c6aeb9eec721ece473a
+
+alterações
