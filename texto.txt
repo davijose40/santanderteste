@@ -1,2 +1,7 @@
  some words in this text
+<<<<<<< HEAD
  some new words at 17:00 12/02/20
+=======
+
+some more words
+>>>>>>> 05cbde64d7a353f3323d3c6aeb9eec721ece473a
